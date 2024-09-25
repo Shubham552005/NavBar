@@ -102,7 +102,7 @@ header #nav-2 ul li{
 header #nav-2 ul li:hover{
     background-color: #3f4a3c;
     box-shadow: 2px 2px 5px black;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .nav-2-remove{
