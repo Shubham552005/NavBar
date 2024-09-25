@@ -3,11 +3,6 @@
     padding: 0;
 }
 
-a:focus,
-a:active {
-    outline: none !important;
-}
-
 body{
     min-height: 100vh;
 }
