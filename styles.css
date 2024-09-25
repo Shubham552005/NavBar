@@ -5,7 +5,7 @@
 
 a:focus,
 a:active {
-    outline: none;
+    outline: none !important;
 }
 
 body{
