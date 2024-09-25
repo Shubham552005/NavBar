@@ -34,13 +34,13 @@ header{
  #hamburger div{
     width: 29px;
     height: 3.5px;
-    background-color: #ededed;
+    background-color: #fff;
     transition: 500ms;
  }
 
 Header a{
     text-decoration: none;
-    color: #ededed;
+    color: #fff;
 }
 
 header #brand{
