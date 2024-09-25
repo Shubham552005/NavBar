@@ -12,6 +12,7 @@ header{
     top: 0;
     width: 87%;
     background-color: #05d825;
+    color: #fff
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,16 +38,6 @@ header{
     background-color: #fff;
     transition: 500ms;
  }
-
-Header a{
-    text-decoration: none;
-    color: #fff;
-}
-
-a {
-    -webkit-tap-highlight-color: transparent !important;
-    outline: none !important; 
-}
 
 header #brand{
     font-size: 2.2rem;
