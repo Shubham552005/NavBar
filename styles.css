@@ -7,10 +7,6 @@ body{
     min-height: 100vh;
 }
 
-a:hover, a:active{
-    background-color: unset;
-}
-
 header{
     position: fixed;
     top: 0;
@@ -45,6 +41,10 @@ header{
 Header a{
     text-decoration: none;
     color: #fff;
+}
+
+a:hover, a:active, a:focus{
+    background-color: inherit;
 }
 
 header #brand{
