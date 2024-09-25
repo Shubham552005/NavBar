@@ -43,8 +43,9 @@ Header a{
     color: #fff;
 }
 
-a:hover, a:active, a:focus{
-    background-color: inherit;
+a {
+    -webkit-tap-highlight-color: transparent !important;
+    outline: none !important; 
 }
 
 header #brand{
