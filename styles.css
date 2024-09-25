@@ -7,6 +7,10 @@ body{
     min-height: 100vh;
 }
 
+a:hover, a:active{
+    background-color: unset;
+}
+
 header{
     position: fixed;
     top: 0;
