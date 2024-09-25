@@ -109,11 +109,6 @@ header #nav-2 ul li:hover{
     height: 0;
 }
 
-.nav-2-visible{
-    height: fit-content;
-    padding: 6rem 0;
-}
-
 @media(max-width: 850px){
     header{
         width: 94%;
@@ -124,6 +119,11 @@ header #nav-2 ul li:hover{
 @media(max-width: 760px){
     #hamburger{
         display: flex;
+    }
+
+    .nav-2-visible{
+        height: fit-content;
+        padding: 6rem 0;
     }
     
     header{
